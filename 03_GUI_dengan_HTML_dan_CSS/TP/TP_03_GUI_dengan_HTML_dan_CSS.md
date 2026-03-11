@@ -6,12 +6,13 @@ Buatlah tata letak laman yang kamu buat berada di tengah seperti di bawah ini, d
 
 ## Kode sumber
 
-Tersedia di index.html dan index.css
+Tersedia di index.html, index.css dan index.js
 
 ## Output
 
-![alt text](<Screenshot 2026-03-11 030017.png>)
+![alt text](image.png)
 
 ## Deskripsi Program
 
-Program ini merupakan pembuatan Antarmuka Pengguna Grafis (GUI) berbasis web statis menggunakan bahasa markup HTML dan bahasa gaya CSS. Halaman ini dirancang sebagai antarmuka untuk aplikasi "Pengkonversi Gaya Teks", yang ke depannya dapat dihubungkan dengan JavaScript agar berfungsi secara interaktif.
+Program ini adalah sebuah aplikasi web statis yang dirancang menggunakan tiga pilar utama pengembangan web: HTML untuk kerangka struktur, CSS untuk desain dan tata letak, serta JavaScript untuk memberikan interaktivitas (event-driven programming) melalui manipulasi DOM (Document Object Model).
+Secara spesifik, penambahan JavaScript pada program ini berfungsi untuk menganalisis teks yang diketik oleh pengguna secara langsung (real-time).
